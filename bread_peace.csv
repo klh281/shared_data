@@ -1,0 +1,18 @@
+year,vote,growth,fatalities,wars,inc_party_candidate,other_party_candidate,inc_party
+1952,44.55,3.0325,205.6,Korean,Stevenson,Eisenhower,D
+1956,57.75,2.5836,0,none,Eisenhower,Stevenson,R
+1960,49.92,0.5768,0,Vietnam,Nixon,Kennedy,R
+1964,61.35,4.3904,2,Vietnam,Johnson,Goldwater,D
+1968,49.59,3.2644,174.3,Vietnam,Humphrey,Nixon,D
+1972,61.79,4.1745,0,none,Nixon,McGovern,R
+1976,48.95,1.4324,0.6,Vietnam,Ford,Carter,R
+1980,44.69,0.7495,0,none,Carter,Reagan,D
+1984,59.17,4.1195,0,none,Reagan,Mondale,R
+1988,53.9,2.8907,0,none,"Bush, Sr.",Dukakis,R
+1992,46.55,1.3764,0,none,"Bush, Sr.","Clinton, B.",R
+1996,54.74,1.8797,0,none,"Clinton, B.",Dole,D
+2000,50.27,3.3349,0,none,Gore,"Bush, Jr.",D
+2004,51.24,2.186,4.3,Iraq,"Bush, Jr.",Kerry,R
+2008,46.31,0.1691,9.4,Iraq,McCain,Obama,R
+2012,51.96,1.7744,4.8,Afghanistan,Obama,Romney,D
+2016,51.11,1.8951,0.8,Afghanistan + Iraq,"Clinton, H.",Trump,D
